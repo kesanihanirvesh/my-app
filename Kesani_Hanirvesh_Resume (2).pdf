@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module">import { injectIntoGlobalHook } from "/@react-refresh";
+injectIntoGlobalHook(window);
+window.$RefreshReg$ = () => {};
+window.$RefreshSig$ = () => (type) => type;</script>
+
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kesani Hanirvesh - Computer Science Student & AI/ML Enthusiast</title>
+    <meta name="description" content="Portfolio of Kesani Hanirvesh - Computer Science student at KL University specializing in AI/ML, cloud computing, and full-stack development. View projects, skills, and experience." />
+    <meta name="author" content="Kesani Hanirvesh" />
+    <meta name="keywords" content="Kesani Hanirvesh, Computer Science, AI, Machine Learning, AWS, Portfolio, KL University, Developer" />
+
+    <meta property="og:title" content="Kesani Hanirvesh - Computer Science Student & AI/ML Enthusiast" />
+    <meta property="og:description" content="Portfolio showcasing AI/ML projects, cloud computing expertise, and full-stack development skills. Passionate about innovation and technology." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kesani Hanirvesh - Portfolio" />
+    <meta name="twitter:description" content="Computer Science student specializing in AI/ML and cloud computing" />
+    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  </head>
+
+  <body>
+    <div id="root"></div><script src="https://cdn.gpteng.co/lovable.js" type="module"></script>
+    <script type="module" src="/src/main.tsx?t=1757394510007"></script>
+  </body>
+</html>
